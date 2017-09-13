@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book id="1">
+		<title>Book1</title>
+		<pages>10</pages>
+		<authors>
+			<author>
+				<name>Viktor</name>
+				<surname>Ivanov</surname>
+				<date>1962-11-07</date>
+			</author>
+			<author>
+				<name>Grisha</name>
+				<surname>Sviridov</surname>
+				<date>1962-11-07</date>
+			</author>
+		</authors>
+	</book>
+	<book id="2">
+		<title>Book2</title>
+		<pages>28</pages>
+		<authors>
+			<author>
+				<name>Petr</name>
+				<surname>Petrov</surname>
+				<date>1958-10-22</date>
+			</author>
+		</authors>
+	</book>
+</books>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book id="1">
+<title>Book1</title>
+<pages>345</pages>
+<authors>
+<author>
+<name>Viktor</name>
+<surname>Ivanov</surname>
+<date>1987-04-21</date>
+</author>
+<author>
+<name>Grisha</name>
+<surname>Sviridov</surname>
+<date>1999-01-11</date>
+</author>
+</authors>
+</book>
+<book id="2">
+<title>Book2</title>
+<pages>218</pages>
+<authors>
+<author>
+<name>Petr</name>
+<surname>Petrov</surname>
+<date>1997-01-01</date>
+</author>
+<author>
+<name>Liza</name>
+<surname>Kryshkovskaya</surname>
+<date>1994-01-30</date>
+</author>
+</authors>
+</book>
+</books>
